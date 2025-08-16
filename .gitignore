@@ -1,3 +1,5 @@
 .txt
 *.env
 .venv
+lightning_logs/
+__pycache__/
